@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    border-bottom: 1px solid gold;
+}
+
+nav {
+    color:white;
+    font-size: 20px;
+}
+
+br {
+    padding: 0px;
+}
+
+h2 {
+    color:white;
+    font-size: 30px;
+    border-bottom: 1px solid gold;
+}
