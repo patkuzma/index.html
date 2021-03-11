@@ -25,3 +25,52 @@ h2 {
     font-size: 30px;
     border-bottom: 1px solid gold;
 }
+
+#navbar {
+	position: fixed;
+	margin-left: -180px;
+	margin-top: 50px;
+	padding: 10px;
+	
+	list-style-type: none;
+	background-color: black;
+	
+	border-color: silver;
+	border-style: solid; 
+	border-width: 1px;
+	
+    font-size: 20px;
+    
+}
+
+#navbar li a{
+    display: block;
+}
+
+#container {
+	height:50px;
+	padding-top: 10px;
+	padding-right: 90px;
+    background-color:black;
+    padding-left: 600px;
+	border:5px double gold;
+	border-radius: 10px 10px 0px 0px;
+}
+
+#container a {
+	padding-top: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	padding-right:4px;
+	
+	color: #ffffff;
+	float: middle;
+	font-size: 25px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+li {
+    color: yellow;
+    font-size: 20px;
+}
